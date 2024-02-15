@@ -1,0 +1,2 @@
+This is a new file for pravalik.
+For git demonstration.
