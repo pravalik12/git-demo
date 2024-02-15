@@ -1,2 +1,2 @@
-This is a file.
-Demonstration for Git usage.
+This is a text file.
+Demonstration for Git usage. Making some changes here.
